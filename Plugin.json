@@ -1,0 +1,12 @@
+{
+  "id": "com.ramses-tools.js-to-html",
+  "name": "JS to HTML Converter",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "author": "Ramses Tools",
+  "description": "Quickly wrap JavaScript code into a full HTML5 boilerplate for testing.",
+  "icon": "extension",
+  "minSdkVersion": 150,
+  "source": "https://github.com/rochellevelez24-sudo/js-to-html-acode"
+}
